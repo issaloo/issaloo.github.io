@@ -1,12 +1,12 @@
-AUTHOR = 'Issac Loo'
-SITENAME = 'issaloo'
+AUTHOR = "Issac Loo"
+SITENAME = "issaloo"
 SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = 'US/Pacific'
+TIMEZONE = "US/Pacific"
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
