@@ -1,5 +1,15 @@
 # Issac's Personal Blog
 
+## Updating Blog
+
+TODO: adding new page, new article
+Run `make github`
+
+How things work
+
+- github pulls from pages branch to deploy website
+- pelican is the static website generator
+
 ## Contributing
 
 ### General Guidelines
