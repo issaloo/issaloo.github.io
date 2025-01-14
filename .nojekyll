@@ -4,11 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>issaloo | Disables Jekyll</title>
-    <link rel="shortcut icon" type="image/png" href="https://issaloo.github.io/favicon.png">
-    <link rel="shortcut icon" type="image/x-icon" href="https://issaloo.github.io/favicon.ico">
-    <link href="https://issaloo.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="issaloo Full Atom Feed" />
-    <link rel="stylesheet" href="https://issaloo.github.io/theme/css/main.css" type="text/css" />
-    <link rel="stylesheet" href="https://issaloo.github.io/theme/css/pygments.css" type="text/css" />
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/theme/css/main.css" type="text/css" />
+    <link rel="stylesheet" href="/theme/css/pygments.css" type="text/css" />
     <meta name="generator" content="Pelican" />
     <meta name="description" content="" />
     <meta name="author" content="Issac Loo" />
@@ -17,11 +16,11 @@
     <header>
         <nav style="overflow: hidden;">
             <ul>
-                <li><a href="https://issaloo.github.io/">Home</a></li>
+                <li><a href="/">Home</a></li>
             </ul>
         </nav>
         <div class="header_box" style="height: 50px">
-        <h1><a href="https://issaloo.github.io/">
+        <h1><a href="/">
             <image src='' class="avatar" width="50px" /><span class="site_title">issaloo</span>
             </a></h1></div>
         </div>
@@ -39,8 +38,6 @@
                 <a href="https://github.com/tcarwash/blue-penguin-dark">Blue Penguin Dark</a> Theme
                 &middot;
                 Powered by <a href="http://getpelican.com">Pelican</a>
-                &middot;
-                <a href="https://issaloo.github.io/feeds/all.atom.xml" rel="alternate">Atom Feed</a>
             </footer>
         </div>
         <div class="clear"></div>
