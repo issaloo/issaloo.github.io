@@ -1,6 +1,7 @@
 AUTHOR = "Issac Loo"
 SITENAME = "issaloo"
 SITEURL = ""
+THEME = "/Users/issacloo/GitHub/issaloo/pelican-themes/blue-penguin-dark"
 
 PATH = "content"
 
