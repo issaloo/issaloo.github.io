@@ -3,6 +3,13 @@
 ## Updating Blog
 
 TODO: adding new page, new article
+
+```
+pelican content -o output -s publishconf.py
+ghp-import output -b pages
+git push origin pages
+```
+
 Run `make github`
 
 How things work
