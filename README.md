@@ -2,10 +2,22 @@
 
 ## Updating Blog
 
+Generate the site content
+
+```
+pelican content
+```
+
+Preview the site
+
+```
+pelican --listen
+```
+
 TODO: adding new page, new article
 
 ```
-pelican content -o output -s publishconf.py
+pelican content -s publishconf.py
 ghp-import output -b pages
 git push origin pages
 ```
