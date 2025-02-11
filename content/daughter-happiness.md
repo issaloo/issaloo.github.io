@@ -1,5 +1,6 @@
 Title: Parent’s Toolkit for a Happy Daughter
 Date: 2025-02-10 21:10
+Tags: parenting
 
 Now that my daughter is over a year old and becoming more vocal, I’m reflecting on the lessons I want to teach her. My goal is to equip her with the knowledge and skills to build a life of long-term and consistent happiness.
 

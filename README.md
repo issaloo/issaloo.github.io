@@ -2,19 +2,7 @@
 
 ## Updating Blog
 
-Generate the site content
-
-```
-pelican content
-```
-
-Preview the site
-
-```
-pelican --listen
-```
-
-TODO: adding new page, new article
+### Add new page
 
 ```
 pelican content -s publishconf.py
@@ -22,9 +10,7 @@ ghp-import output -b pages
 git push origin pages
 ```
 
-Run `make github`
-
-How things work
+### How things work
 
 - github pulls from pages branch to deploy website
 - pelican is the static website generator
