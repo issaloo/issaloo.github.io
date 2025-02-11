@@ -17,7 +17,7 @@ PATH = "content"
 TIMEZONE = "US/Pacific"
 DEFAULT_LANG = "en"
 DATE_FORMATS = {
-    "en": "%B %d, %Y @%HH:%MM",
+    "en": "%B %d, %Y",
 }
 
 SOCIAL = ()
