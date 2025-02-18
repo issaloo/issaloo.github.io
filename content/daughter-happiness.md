@@ -16,9 +16,10 @@ Understanding and guiding oneself
 ### Others
 
 Building and maintaining relationships
-People-Centered Thinking: Prioritizing people over possessions.
-Conflict Resolution: Approaching disagreements constructively.
-Empathy: Meeting people where they are and understanding their perspectives.
+
+- **People-Centered Thinking:** Prioritizing people over possessions.
+- **Conflict Resolution:** Approaching disagreements constructively.
+- **Empathy:** Meeting people where they are and understanding their perspectives.
 
 ### Resources
 
